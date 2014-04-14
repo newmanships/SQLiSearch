@@ -1,0 +1,2 @@
+ Simple script to search Bing for terms and see if the search results are vulnerable to simple SQL injection.
+ This script is old and now fails after 7 results are shown.  However, it did let me try out a few different libraries.
